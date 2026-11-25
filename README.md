@@ -2,7 +2,7 @@
 
 [![Install with Pinokio](https://badges.pinokio.co/install.svg)](https://pinokio.co/resolve?url=https://github.com/hunterdrakeusf/PaperFetch.Pinokio)
 
-This app will help you find the pdfs for your journal database search results saved as csv or ris files. It's fast and adds just a touch of whimsey.
+This app will help you find the pdfs for your journal database search results saved as csv or ris files. It's fast and adds just a touch of whimsey. Scan CSV and RIS reference files for DOIs, resolve free legal open-access research PDFs, and track downloads.
 
 1-click cross-platform Pinokio launcher for **[PaperFetch](https://github.com/hunterdrakeusf/PaperFetch)** — an open-source native Android app (Kotlin + Jetpack Compose) that scans CSV (including Rayyan exports), RIS, and text reference lists for DOIs, resolves free legal open-access research PDFs via OpenAlex, Europe PMC, and Crossref, downloads them, and tracks progress with dashboards and Rayyan CSV export.
 

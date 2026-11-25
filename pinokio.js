@@ -1,7 +1,7 @@
 module.exports = {
   version: "8.0.0",
   title: "PaperFetch",
-  description: "This app will help you find the pdfs for your journal database search results saved as csv or ris files. It's fast and adds just a touch of whimsey. https://github.com/hunterdrakeusf/PaperFetch",
+  description: "This app will help you find the pdfs for your journal database search results saved as csv or ris files. It's fast and adds just a touch of whimsey. Scan CSV and RIS reference files for DOIs, resolve free legal open-access research PDFs, and track downloads. https://github.com/hunterdrakeusf/PaperFetch",
   icon: "icon.png",
   menu: async (kernel, info) => {
     let installed = info.exists("app/app/build/outputs/apk/debug/app-debug.apk")
