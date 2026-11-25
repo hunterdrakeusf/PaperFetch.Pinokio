@@ -1,0 +1,11 @@
+{
+  "title": "PaperFetch",
+  "description": "This app will help you find the pdfs for your journal database search results saved as csv or ris files. It's fast and adds just a touch of whimsey. https://github.com/hunterdrakeusf/PaperFetch",
+  "icon": "icon.png",
+  "links": [
+    {
+      "title": "PaperFetch (GitHub)",
+      "value": "https://github.com/hunterdrakeusf/PaperFetch"
+    }
+  ]
+}

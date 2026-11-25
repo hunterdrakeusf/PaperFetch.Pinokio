@@ -1,0 +1,16 @@
+ENVIRONMENT
+node_modules
+venv
+conda_env
+tools
+app
+.env
+.*
+~*
+/logs/
+/cache/
+/AGENTS.md
+/CLAUDE.md
+/GEMINI.md
+/QWEN.md
+/SPEC.md
